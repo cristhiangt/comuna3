@@ -1,0 +1,12 @@
+var json_equipamiento_administracion_4 = {
+"type": "FeatureCollection",
+"name": "equipamiento_administracion_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 10.0, "nombre": "gobernacion del valle del cauca", "localizacion": "cl9 cl10 kr6 kr8", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533867298792956, 3.449279500988016 ], [ -76.533748507221077, 3.448698010326318 ], [ -76.533016680927773, 3.448834395472594 ], [ -76.533135413673136, 3.449518490083095 ], [ -76.533867298792956, 3.449279500988016 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 13.0, "nombre": "Direccion de impuestos y aduanas", "localizacion": "kr 3 no 10 60", "servicio": "gestion institucional " }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533690386221309, 3.452548030533525 ], [ -76.53350714860791, 3.451865187695197 ], [ -76.532992869926332, 3.452086320494438 ], [ -76.533176065146563, 3.452842972815217 ], [ -76.533690386221309, 3.452548030533525 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 14.0, "nombre": "Procuraduria nacional", "localizacion": "kr 9 no 8 56", "servicio": "gestion instutucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533950324731123, 3.447510683094226 ], [ -76.533803738980239, 3.446957027960042 ], [ -76.533491545040974, 3.447012206016263 ], [ -76.533527892635846, 3.447676512139547 ], [ -76.533950324731123, 3.447510683094226 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 15.0, "nombre": "Beneficencia del valle", "localizacion": "cl 9 no 4 50", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.534848099702515, 3.45101714802737 ], [ -76.534793148068573, 3.450777235717626 ], [ -76.534444238178068, 3.450813940487688 ], [ -76.534480764281909, 3.451164556461135 ], [ -76.534848099702515, 3.45101714802737 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 12.0, "nombre": "Asamblea departamental", "localizacion": "kr9 cl9", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.534147844638952, 3.447931063614423 ], [ -76.533988103178075, 3.447972701859909 ], [ -76.534147258889902, 3.448453418998538 ], [ -76.533816673989705, 3.448527042808478 ], [ -76.53374903178252, 3.447774574866866 ], [ -76.534089418433993, 3.447706367380899 ], [ -76.534147844638952, 3.447931063614423 ] ] ] } }
+]
+}
